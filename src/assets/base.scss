@@ -38,11 +38,9 @@ body, button{
   margin: 0 auto;
   padding: 0 12px;
   @include pad{
-    max-width: 768px;
     padding: 0 36px;
   }
   @include mobile{
-    max-width: 374px;
     padding: 0 13px;
   }
 }

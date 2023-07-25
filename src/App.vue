@@ -7,7 +7,7 @@ import FooterComponent from './components/FooterCom.vue'
 <template>
   <NavbarComponent />
   <h2>中間區域</h2>
-  <RouterView />
+  <!-- <RouterView /> -->
   <FooterComponent />
 </template>
 
